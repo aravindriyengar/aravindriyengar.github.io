@@ -1,0 +1,39 @@
+# jemdoc: {../index.html}
+= Aravind R. Iyengar
+
+== Publications
+
+==== Synchronization Error Channels
+- [files/isw_13_tit_sec.pdf On the Capacity of Channels with Timing Synchronization Errors]\n A. R. Iyengar, P. H. Siegel and J. K. Wolf\n /IEEE Transactions on Information Theory/, Vol. 62, No. 2, pp. 793-810, Feb. 2016.
+-- Shorter version presented at ISIT 2011\n [http://arxiv.org/pdf/1106.0070v1 Modeling and Information Rates for Synchronization Error Channels]\n /Proceedings of the IEEE International Symposium on Information Theory/, pp. 380-384\n 31 Jul.-5 Aug. 2011, St. Petersburg, Russia
+- Synchronization Errors in Magnetic Recording\n [http://arxiv.org/pdf/1010.4603v1 Write Channel Model for Bit-Patterned Media Recording]\n A. R. Iyengar, P. H. Siegel and J. K. Wolf\n /IEEE Transactions on Magnetics/, Vol. 47, No. 1, pp. 35-45, Jan. 2011
+-- Invited talk at the /21st Magnetic Recording Conference/, 16-18 Aug. 2010, La Jolla, CA, USA
+-- Shorter version presented at ISIT 2010\n [files/iye_10_isit_wcbpm.pdf Data-dependent Write Channel Model for Magnetic Recording]\n /Proceedings of the IEEE International Symposium on Information Theory/, pp. 958-962\n 13-18 Jun. 2010, Austin, TX, USA
+
+==== Decoding Algorithms for Graph-based Codes
+=== Approximate Belief Propagation Decoding
+- [http://arxiv.org/pdf/1412.8090v1 Analysis of Saturated Belief Propagation Decoding of Low-Density Parity-Check Codes]\n S. Kudekar, T. Richardson and A. R. Iyengar\n /IEEE Transactions on Information Theory/, Vol. 63, No. 9, pp. 5734-5751, Sep. 2017
+-- Shorter version presented at ISIT 2014\n [http://arxiv.org/pdf/1403.3678 The Effect of Saturation on Belief Propagation Decoding of LDPC Codes]\n /Proceedings of the IEEE International Symposium on Information Theory/, pp. 2604-2608\n 29 Jun.-4 Jul. 2014, Honolulu, HI, USA
+=== Low-Complexity Decoding of /Spatially Coupled Codes/
+- [http://arxiv.org/pdf/1106.0075v3 Windowed Decoding of Spatially Coupled Codes]\n A. R. Iyengar, P. H. Siegel, R. L. Urbanke and J. K. Wolf\n /IEEE Transactions on Information Theory/, Vol. 59, No. 4, pp. 2277-2292, Apr. 2013
+-- Summary presented at ISIT 2011\n [http://arxiv.org/pdf/1106.0075v1 Windowed Decoding of Spatially Coupled Codes]\n /Proceedings of the IEEE International Symposium on Information Theory/, pp. 2552-2556\n 31 Jul.-5 Aug. 2011, St. Petersburg, Russia
+- [http://arxiv.org/pdf/1010.4548v2 Windowed Decoding of Protograph-based LDPC Convolutional Codes over Erasure Channels]\n A. R. Iyengar, M. Papaleo, P. H. Siegel, J. K. Wolf, A. Vanelli-Coralli and G. E. Corazza\n /IEEE Transactions on Information Theory/, Vol. 58, No. 4, pp. 2303-2320, Apr. 2012
+-- Short version on memoryless erasure channels presented at ITW 2010\n [files/pap_10_itw_ldpccc.pdf Windowed Erasure Decoding of LDPC Convolutional Codes]\n M. Papaleo, A. R. Iyengar, P. H. Siegel, J. K. Wolf and G. E. Corazza\n /Proceedings of the IEEE Information Theory Workshop/, pp. 1-5\n 6-8 Jan. 2010, Cairo, Egypt
+-- Short version on correlated erasure channels presented at ICC 2010\n [files/iye_10_icc_ldpccc.pdf Protograph-based LDPC Convolutional Codes for Correlated Erasure Channels]\n A. R. Iyengar, M. Papaleo, G. Liva, P. H. Siegel, J. K. Wolf and G. E. Corazza\n /Proceedings of the IEEE International Conference on Communications/, pp. 1-6\n 23-27 May 2010, Cape Town, South Africa
+-- Invited talk at the Turbo-Coding conference 2010\n [files/cipsvw_10_istc_pbldpccc.pdf Latency Constrained Protograph-based LDPC Convolutional Codes]\n G. E. Corazza, A. R. Iyengar, M. Papaleo, P. H. Siegel, A. Vanelli-Coralli and J. K. Wolf\n /Proceedings of the 6th International Symposium on Turbo Codes & Iterative Information Processing/, pp. 6-10\n 6-10 Sep. 2010, Brest, France
+=== Stochastic Decoding
+- [http://arxiv.org/pdf/1405.6353 A Novel Stochastic Decoding of LDPC Codes with Quantitative Guarantees]\n N. Noorshams and A. R. Iyengar, May 2014.
+
+==== Code Design Strategies
+=== Construction of Non-binary low-density parity-check Codes
+- [http://arxiv.org/pdf/1110.6199v1 Enhancing Binary Images of Non-Binary LDPC Codes]\n A. Bhatia, A. R. Iyengar and P. H. Siegel\n /Proceedings of the IEEE Global Telecommunications Conference/, pp. 1-6\n 5-9 Dec. 2011, Houston, TX, USA
+=== Coding for Memories
+- Rewrite Codes for flash memories\n [files/bqiks_14_jsac_wom.pdf Lattice-based WOM Codes for Multilevel Flash memories]\n A. Bhatia, M. Qin, A. R. Iyengar, B. Kurkoski, P. H. Siegel\n /IEEE Journal on Selected Areas in Communications/, Vol. 32, No. 5, pp. 933-945, May 2014
+-- Shorter version presented at ITW 2012\n[files/bis_12_itw_rewrite.pdf Multilevel 2-Cell /t/-write Codes]\n A. Bhatia, A. R. Iyengar, P. H. Siegel\n /IEEE Information Theory Workshop/\n 3-7 Sep. 2012, Lausanne, Switzerland
+- Correcting "written-in" errors in magnetic recording\n[files/isw_09_all_bscbawgn.pdf LDPC Codes for the Cascaded BSC-BAWGN Channel]\n A. R. Iyengar, P. H. Siegel and J. K. Wolf\n /47th Annual Allerton Conference on Communication, Control and Computing/, pp. 620-627\n 30 Sep.-2 Oct. 2009, Monticello, IL, USA
+=== Coding for Wireless Communications
+- [http://ieeexplore.ieee.org/search/srchabstract.jsp?tp=&arnumber=4554375 Thresholds for LDPC Codes over OFDM]\n A. R. Iyengar, M. K. Dileep, A. Thangaraj and S. Bhashyam\n /Proceedings of the 3rd International Conference on Communication Systems, Software and Middleware/, pp. 37-42\n 6-10 Jan. 2008, Bangalore, India
+
+== Thesis
+- /[files/aiyengar_thesis.pdf Synchronization Error Channels \& Windowed Decoding in Theory \& Practice]/ (Doctoral dissertation): advised by [http://cmrr-star.ucsd.edu/psiegel Prof. Paul H. Siegel] and [http://cmrr.ucsd.edu/people/wolf Prof. Jack K. Wolf], [http://www.ucsd.edu UCSD].
+- /LDPC Thresholds for OFDM Transmission/ (Bachelor's Thesis): advised by [http://www.ee.iitm.ac.in/~andrew Prof. Andrew Thangaraj] and [http://www.ee.iitm.ac.in/~skrishna Prof. Srikrishna Bhashyam], [http://www.iitm.ac.in IIT Madras].
